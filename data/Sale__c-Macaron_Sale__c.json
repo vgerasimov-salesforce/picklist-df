@@ -1,0 +1,85 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef1"
+            },
+            "Sale_Date__c": "2017-09-28T16:04:58.000+0000",
+            "Macaron_Sales__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef1"
+                        },
+                        "Macaron_Flavor__c": "Raspberry",
+                        "Quantity__c": 5
+                    },
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef2"
+                        },
+                        "Macaron_Flavor__c": "Strawberry",
+                        "Quantity__c": 5
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef2"
+            },
+            "Sale_Date__c": "2017-09-28T16:05:29.000+0000",
+            "Macaron_Sales__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef3"
+                        },
+                        "Macaron_Flavor__c": "Orange",
+                        "Quantity__c": 4
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef3"
+            },
+            "Sale_Date__c": "2017-09-28T15:56:30.000+0000",
+            "Macaron_Sales__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef4"
+                        },
+                        "Macaron_Flavor__c": "Vanilla",
+                        "Quantity__c": 5
+                    },
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef5"
+                        },
+                        "Macaron_Flavor__c": "Black Sesame",
+                        "Quantity__c": 10
+                    },
+                    {
+                        "attributes": {
+                            "type": "Macaron_Sale__c",
+                            "referenceId": "Macaron_Sale__cRef6"
+                        },
+                        "Macaron_Flavor__c": "Chocolate",
+                        "Quantity__c": 2
+                    }
+                ]
+            }
+        }
+    ]
+}
