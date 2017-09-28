@@ -1,0 +1,44 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Macaron_Sale__c",
+                "referenceId": "Macaron_Sale__cRef1"
+            },
+            "Macaron_Flavor__c": "Orange",
+            "Quantity__c": 10
+        },
+        {
+            "attributes": {
+                "type": "Macaron_Sale__c",
+                "referenceId": "Macaron_Sale__cRef2"
+            },
+            "Macaron_Flavor__c": "Black Sesame",
+            "Quantity__c": 10
+        },
+        {
+            "attributes": {
+                "type": "Macaron_Sale__c",
+                "referenceId": "Macaron_Sale__cRef3"
+            },
+            "Macaron_Flavor__c": "Vanilla",
+            "Quantity__c": 5
+        },
+        {
+            "attributes": {
+                "type": "Macaron_Sale__c",
+                "referenceId": "Macaron_Sale__cRef4"
+            },
+            "Macaron_Flavor__c": "Strawberry",
+            "Quantity__c": 5
+        },
+        {
+            "attributes": {
+                "type": "Macaron_Sale__c",
+                "referenceId": "Macaron_Sale__cRef5"
+            },
+            "Macaron_Flavor__c": "Chocolate",
+            "Quantity__c": 5
+        }
+    ]
+}

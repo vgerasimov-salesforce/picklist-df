@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef1"
+            },
+            "Sale_Date__c": "2017-09-28T16:04:58.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef2"
+            },
+            "Sale_Date__c": "2017-09-28T16:05:29.000+0000"
+        },
+        {
+            "attributes": {
+                "type": "Sale__c",
+                "referenceId": "Sale__cRef3"
+            },
+            "Sale_Date__c": "2017-09-28T15:56:30.000+0000"
+        }
+    ]
+}
