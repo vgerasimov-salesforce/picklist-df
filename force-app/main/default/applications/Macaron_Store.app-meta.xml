@@ -9,6 +9,7 @@
     <label>Macaron Store</label>
     <navType>Standard</navType>
     <tab>Sale__c</tab>
+    <tab>Ice_Cream_Sale__c</tab>
     <tab>Macaron_Sale__c</tab>
     <uiType>Lightning</uiType>
     <utilityBar>Macaron_Store_UtilityBar</utilityBar>

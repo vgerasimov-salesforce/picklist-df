@@ -21,7 +21,7 @@
                 <label>Raspberry</label>
             </value>
             <value>
-                <fullName>Black Sesame</fullName>
+                <fullName>daily_flavor</fullName>
                 <default>false</default>
                 <label>Black Sesame</label>
             </value>
@@ -39,6 +39,22 @@
                 <fullName>Vanilla</fullName>
                 <default>false</default>
                 <label>Vanilla</label>
+            </value>
+            <value>
+                <fullName>Gingerbread</fullName>
+                <default>false</default>
+                <label>Gingerbread</label>
+            </value>
+            <value>
+                <fullName>Pumpkin</fullName>
+                <default>false</default>
+                <label>Pumpkin</label>
+            </value>
+            <value>
+                <fullName>Green tea</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Green tea</label>
             </value>
         </valueSetDefinition>
     </valueSet>

@@ -1,0 +1,678 @@
+[
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "4860f57de88e683a7799255eeb79ad553877b8e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "d3d19c31cce97ba09fb4457b6be51ddbf2bd0d9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/applications/Macaron_Store.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/applications/Macaron_Store.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 536,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "67ad1d39017b4d46dfac22c07fdf32554566fbc5"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "284dd75f239cf77d9df270684362217e8b5b1a7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets/macaron.asset",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets/macaron.asset",
+            "isDirectory": false,
+            "size": 218216,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "ed1c9ecd244c77e45db5bbbba89dfae776ae73d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets/macaron.asset-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/contentassets/macaron.asset-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "f56119e39dc912fea9e92c1d30c9eb094174e1af",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "de9b3d235d812500062f4d7ae2478eeb2b85f807",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/flexipages/Macaron_Store_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/flexipages/Macaron_Store_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "91bd8ab26d067144e8f1e2ccfadb410d0454c6c5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "98ff5676e8b085d8108c845173fd20bdf6ac0078",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Ice_Cream_Sale__c-Ice Cream Sale Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Ice_Cream_Sale__c-Ice Cream Sale Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2069,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "9164bc4b9a88bf8dbbbee2bb6905b1b410c82239",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Macaron_Sale__c-Macaron Sale Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Macaron_Sale__c-Macaron Sale Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2217,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "be3db6ad69b2ee166a45ef2ee672671e6b8edb6c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Sale__c-Sale Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/layouts/Sale__c-Sale Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2969,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "428cde24e15eded2b9594e94393260ab9f578ed9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "8ddf928652752a954c7ea58136a42ca3dc698523",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "2dedd5f7f2f6878986adde4725d9c8c895ef838d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/Ice_Cream_Sale__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/Ice_Cream_Sale__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2228,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "36c60e2dbadf6006aa8f706ea6f691f03c2f8dff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "3c4d29849871fa42ed28db1035201e6abd142137",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields/Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "80a2e420d902876fd3428ee494d34390ef3b5385",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields/Sale__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Ice_Cream_Sale__c/fields/Sale__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 603,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "3908ab92484c8bc836facd3744a44ba70d416247",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "d8b67fc90d6719811c8db5423475ff821402ff2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/Macaron_Sale__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/Macaron_Sale__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2222,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "9a1a350c673b71781953e170ee9f962d0855a626",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "9f1083a6b64a5fe2f191d55f3a0dccb47d5fae70",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Macaron_Flavor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Macaron_Flavor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2059,
+            "modifiedTime": 1509648032000,
+            "changeTime": 1509648032000,
+            "contentHash": "4f9fbd5ddff7d5855f4bdc41a4c2029e7573b90d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 388,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "80a2e420d902876fd3428ee494d34390ef3b5385",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Sale__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/fields/Sale__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 599,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "4ec2526160cc1499436e519dd4059b91aa61e89d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/listViews",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Macaron_Sale__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "b38315f877d01f55a5980917a50c764f4e10ff8c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/Sale__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/Sale__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2179,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "b926ac76451f59e7500a8a702532b98ec0fd2495",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "e5faba637273e27fb71ed0df6506cbd864d827d4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Sale_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Sale_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "951490c2774510f1bf4ae8018170b7ee8ae911a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Total_Ice_Cream__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Total_Ice_Cream__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 481,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "7828717e2b69a9b152f24c50e398a72f1dd4c290",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Total_Macarons__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/fields/Total_Macarons__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "6dc41f20290363961e834f5dad5e31d954019074",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/listViews",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/listViews",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/objects/Sale__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19028,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "05a74a226071b79cb920df6687a59d4172c451bd"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5208,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "30bd8c602a1720968d776566f583c4843c81351e"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5208,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "30bd8c602a1720968d776566f583c4843c81351e"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5546,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "5b31ba96a960a1c730ced8f8e215202bb5d7c70a"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "e8bb06ae78aa53f817f05b9df9b9b33ab0eb8867",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Ice_Cream_Sale__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Ice_Cream_Sale__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 230,
+            "modifiedTime": 1509462720000,
+            "changeTime": 1509462720000,
+            "contentHash": "0a4cb7e6dbba7d8b05b1d4e9b778f9f80a9065d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Macaron_Sale__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Macaron_Sale__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1509649388000,
+            "changeTime": 1509649388000,
+            "contentHash": "0a4cb7e6dbba7d8b05b1d4e9b778f9f80a9065d8"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Sale__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df/force-app/main/default/tabs/Sale__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1507051381000,
+            "changeTime": 1507051381000,
+            "contentHash": "b02a681f008b727f20c925eeb577f652ec2a70cf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/picklist-df",
+        {
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/picklist-df",
+            "isDirectory": true,
+            "size": 340,
+            "modifiedTime": 1508435872000,
+            "changeTime": 1508435872000,
+            "contentHash": "7775a52ad15533779186311b6ba129ab7ae84ceb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

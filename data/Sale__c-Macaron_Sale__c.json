@@ -67,7 +67,7 @@
                             "type": "Macaron_Sale__c",
                             "referenceId": "Macaron_Sale__cRef5"
                         },
-                        "Macaron_Flavor__c": "Black Sesame",
+                        "Macaron_Flavor__c": “daily_flavor”,
                         "Quantity__c": 10
                     },
                     {
